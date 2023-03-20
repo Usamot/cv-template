@@ -1,0 +1,100 @@
+.certi{
+    overflow-y: hidden;
+    width: 60%;
+    height: 120vh;
+    border: 4px solid rgb(92, 64, 64);
+    align-items: center;
+
+}
+.main{
+    display: flex;
+}
+
+.cv-header{
+    width: 100%;
+    height: 35vh;
+    border:4px solid black;
+    display: flex;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+    
+}
+.c-img{
+width: 30%;
+height: 30vh;
+border: 2px solid black;
+border-radius: 130px;
+margin: 3%;
+}
+.h-text{
+    margin-right: 3%;
+    margin-top: 5%;
+    font-size: large;
+    
+
+}
+
+.c-left h1{
+    margin-right: 3%;
+
+}
+
+.c-left{
+     width: 35%;
+     height: 100vh;
+     border: 4px solid black;
+     border-left: none;
+     border-top: none;
+     
+     
+}
+
+.c-list{
+    height: 30vh;
+    border: 4px solid black;
+    border-top: 0.5px solid black;
+    border-left: none;
+    border-right: none;
+    
+}
+.c-list ul{
+    display: flex;
+    list-style-type:none;
+    
+    
+}
+.c-list li{
+    margin-right: 10px;
+}
+
+.c-leftD{
+    margin: 5%;
+}
+.c-right{
+    width: 65%;
+    border: 2px black;
+    margin-left:5% ;
+    
+   
+}
+.c-right1{
+   
+    height: 35vh;
+    border-bottom: 4px solid black;
+
+
+    
+}
+.c-right ul{
+    font-size: small;
+}
+.c-right2{
+    margin: 3%;
+   
+}
+.txt{
+    width: 100%;
+    margin-right: 5%;
+}
